@@ -5,7 +5,7 @@ import java.util.List;
 
 public class StateCode {
 	 public static void main(String[] args) throws StateSensorAnalyserException, IOException {
-	        String filePathRead = "./src/main/resources/StateCode.csv";
+	        String filePathRead = "C:\\Users\\ayus\\eclipse-workspace\\Indianstatecensusanalyser\\src\\bridgelabz";
 	        String fileName = "StateCode";
 	        String delimiter = ",";
 	        List<String> stringName = new ArrayList<>();

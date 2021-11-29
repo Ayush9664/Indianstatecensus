@@ -5,7 +5,7 @@ import java.util.List;
 public class CensusAnalyser {
 	 public static void main(String[] args) throws IOException, StateSensorAnalyserException {
 	        System.out.println("Welcome To The Program");
-	        String filePathRead = ".src/main/resources1/IndianStateCensusData.csv";
+	        String filePathRead = "C:\\Users\\ayus\\eclipse-workspace\\Indianstatecensusanalyser\\src\\bridgelabz";
 	        String fileName = "IndianStateCensusData";
 	        String delimiter =",";
 	        List<String> stringName = new ArrayList<>();
